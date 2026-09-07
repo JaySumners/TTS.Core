@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="TTS.Core/TTS.Core.vcxproj" />
+  <Project Path="TTS.Core/TTS.Core.vcxproj" Id="0bc3daa1-2bac-4656-8921-72d28a47fd5e" />
 </Solution>
