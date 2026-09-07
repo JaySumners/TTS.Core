@@ -142,6 +142,7 @@
     <ClInclude Include="..\include\TTS\AudioBuffer.h" />
     <ClInclude Include="..\include\TTS\TTSConfig.h" />
     <ClInclude Include="..\include\TTS\TTSPlugin.h" />
+    <ClInclude Include="..\include\TTS\TTSVersion.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
