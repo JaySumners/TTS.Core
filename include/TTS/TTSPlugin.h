@@ -1,5 +1,6 @@
 #pragma once
 
+#include "TTSVersion.h"
 #include <cstdint>
 
 // Platform Binding
