@@ -1,6 +1,0 @@
-{
-  "name": "tts-core",
-  "version": "0.1.0",
-  "description": "Generic C-compatible text-to-speech plugin contract.",
-  "license": "Apache-2.0"
-}
